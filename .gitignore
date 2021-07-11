@@ -5,6 +5,9 @@
 *.elf
 *.pyc
 
+# Mac Items
+*.DS_Store
+
 # Visual Studio Project Items:
 *.suo
 
